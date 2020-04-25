@@ -23,12 +23,12 @@ This project requires good knowledge of Deep learning, Python, working on Jupyte
 
 ## Make sure you have installed all the following necessary libraries:
 
-<b>pip install tensorflow
-keras
-pillow
-numpy
-tqdm
-jupyterlab</b>
+<b><br>pip install tensorflow</br>
+<br>keras</br>
+<br>pillow</br>
+<br>numpy</br>
+<br>tqdm</br>
+<br>jupyterlab</b>
 
 ## How to run the notebook
 
