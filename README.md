@@ -26,7 +26,6 @@ For the image caption generator, we will be using the Flickr_8K dataset. There a
 This project requires good knowledge of Deep learning, Python, working on Jupyter notebooks, Keras library, Numpy, and Natural language processing.
 
 ## Make sure you have installed all the following necessary libraries:
-
 <b><br>pip install tensorflow
 <br>keras
 <br>pillow
