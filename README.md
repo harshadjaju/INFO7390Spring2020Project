@@ -3,6 +3,10 @@ Advance Data Science final project for Spring 2020 term
 
 ## Project Title: Image Caption Generator
 
+<b>Contributors:</b>
+<br><b>Harshad Jaju</b> https://www.linkedin.com/in/harshad-jaju
+<br><b>Aman Kapoor</b> https://www.linkedin.com/in/aman-kapoor22
+
 ## Objective -
 The objective of our project is to learn the concepts of CNN, LSTM and Keras Imagenet pre-trained application models and build our own model of Image caption generator.
 
@@ -23,12 +27,12 @@ This project requires good knowledge of Deep learning, Python, working on Jupyte
 
 ## Make sure you have installed all the following necessary libraries:
 
-<b><br>pip install tensorflow</br>
-<br>keras</br>
-<br>pillow</br>
-<br>numpy</br>
-<br>tqdm</br>
-<br>jupyterlab</b>
+<b><br>pip install tensorflow
+<br>keras
+<br>pillow
+<br>numpy
+<br>tqdm
+<br>jupyterlab
 
 ## How to run the notebook
 
